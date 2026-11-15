@@ -1,0 +1,14 @@
+# Generated data and local environments
+data/
+*.csv
+*.csv.gz
+*.parquet
+*.delta/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+.DS_Store
+.ipynb_checkpoints/
